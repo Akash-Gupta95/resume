@@ -1,0 +1,84 @@
+/* Header */
+*{
+    font-family: sans-serif;
+}
+
+
+ul{
+    margin-top: 15px;
+}
+li ,.SoftSkill ul li{
+    list-style: none;
+    font-size: 1rem;
+    margin-top: 5px;
+    color:rgb(68, 77, 155);
+}
+
+
+.Header{
+    background-color: #A62B1F;
+    color: white;
+    height: 16vh;
+    text-align: center;
+}
+.HeaderName{
+    font-size: 2.5rem;
+    letter-spacing: 1.5px;
+    
+}
+.HeaderJobTitle{
+    font-size: 1.5rem;
+    text-align: start;
+    text-align: center;
+}
+.imgDiv{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+}
+.imgDiv img{
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+
+/* Left Container */
+
+.leftContainer{
+    margin-top: 5rem;
+}
+.MyContact h1 ,.HardSkill h1 , .SoftSkill h1,  .EducationBackground h1{
+    font-size: 1.3rem;
+    color: #A62B1F;
+
+}
+.MyContact div ,.HardSkill h1,.SoftSkill h1, .EducationBackground h1{
+    width:10rem ;
+    border-bottom: 3px solid #A62B1F;
+}
+.HardSkill .skill ,.EducationBackground{
+    font-size: 0.8rem;
+    margin-top: 5px;
+    color: rgb(88, 85, 85);
+}
+.SoftSkill{
+    margin-top: 2rem;
+}
+.SoftSkill ul li{
+    font-size: 0.9rem;
+}
+
+/* Right Section */
+.AboutMe ,.ProfessionalExprerinece ,.Achievements{
+    margin-top: 2rem;
+}
+.AboutMe h1 , .ProfessionalExprerinece h1 , .Achievements h1{
+    font-size: 1.3rem;
+    color: #A62B1F;
+    font-weight: 600;
+    width:10rem ;
+    border-bottom: 3px solid #A62B1F;
+}
+ .ProfessionalExprerinece h1{
+    width:18rem ;
+
+ }

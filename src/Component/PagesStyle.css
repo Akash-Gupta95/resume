@@ -1,0 +1,7 @@
+.fpage , .secPage ,.thPage{
+    margin-top: 35px;
+}
+.fpage h1 , .secPage h1 , .thPage h1{
+    font-size: 1.5rem;
+    font-weight: 600;  
+}

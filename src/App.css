@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  min-height: 10vh;
+  font-size: calc(10px + 2min);
+  margin: 55px;
+}
+
+.center-stepper {
+
+}
